@@ -42,10 +42,10 @@ const Home = () => {
   ];
 
   const portfolio = [
-    { image: 'https://images.pexels.com/photos/3299/office-supplies-colorful-pens-markers.jpg?auto=compress&cs=tinysrgb&w=400', title: 'Визитки для IT-компании' },
-    { image: 'https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg?auto=compress&cs=tinysrgb&w=400', title: 'Каталог продукции' },
-    { image: 'https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=400', title: 'Рекламные буклеты' },
-    { image: 'https://images.pexels.com/photos/3147528/pexels-photo-3147528.jpeg?auto=compress&cs=tinysrgb&w=400', title: 'Баннер для магазина' }
+    { image: 'https://ventumprintshared.s3.eu-central-003.backblazeb2.com/attachments/c-7/s-8/widgets/0e60b55e033410e1faab2a3de576991b879e8410450234fade700e78973ff45f3431402b/id107814-ru.jpg', title: 'Визитки для IT-компании' },
+    { image: 'https://static.tildacdn.com/tild3961-3035-4138-b366-656234366435/2020-08-25_17-36-11.png', title: 'Каталог продукции' },
+    { image: 'https://www.unopress.ru/upload/iblock/17b/tjc971z8xemdvyz5ojkkbagu7cuh27lz.jpeg', title: 'Рекламные буклеты' },
+    { image: 'https://bandesign.ru/wp-content/uploads/2019/08/10_1-2.jpg', title: 'Баннер для магазина' }
   ];
 
   return (
